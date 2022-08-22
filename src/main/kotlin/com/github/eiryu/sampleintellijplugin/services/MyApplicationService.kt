@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.eiryu.sampleintellijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.eiryu.sampleintellijplugin.MyBundle
 
 class MyApplicationService {
 
